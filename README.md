@@ -21,3 +21,4 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+<h1>About me</h1></br><p>I am Rasel, a passionate Frontend Developer with a strong interest in creating user-friendly and responsive websites. I am constantly learning and working with modern web technologies like React, JavaScript, and HTML/CSS. My goal is to build seamless digital experiences while continuously improving my skills in both front-end and full-stack development</p>
