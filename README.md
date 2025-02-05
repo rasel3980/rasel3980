@@ -22,11 +22,14 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 <h1>About me</h1></br><p>I am Rasel, a passionate Frontend Developer with a strong interest in creating user-friendly and responsive websites. I am constantly learning and working with modern web technologies like React, JavaScript, and HTML/CSS. My goal is to build seamless digital experiences while continuously improving my skills in both front-end and full-stack development</p>
-#Current Activities
+## Current Activities
+
 - I’m currently exploring **Next.js** and its features for building dynamic, server-side rendered websites.
 - Working on a **tourism website** to showcase popular travel destinations using **React** and **Next.js**.
 - Learning **Node.js** and **Express.js** for backend development to build full-stack applications.
 - Contributing to **open-source projects** and collaborating with developers on GitHub.
 - Building my **personal portfolio** to showcase my work and skills in web development.
+
+
 
 
