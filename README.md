@@ -21,7 +21,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-<h1>About me</h1></br><p>I am Rasel, a passionate Frontend Developer with a strong interest in creating user-friendly and responsive websites. I am constantly learning and working with modern web technologies like React, JavaScript, and HTML/CSS. My goal is to build seamless digital experiences while continuously improving my skills in both front-end and full-stack development</p>
+<h3>About me</h3></br><p>I am Rasel, a passionate Frontend Developer with a strong interest in creating user-friendly and responsive websites. I am constantly learning and working with modern web technologies like React, JavaScript, and HTML/CSS. My goal is to build seamless digital experiences while continuously improving my skills in both front-end and full-stack development</p>
 ## Current Activities
 
 - I’m currently exploring **Next.js** and its features for building dynamic, server-side rendered websites.
@@ -34,7 +34,7 @@
 <p><a href="https://github.com/rasel3980" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></a>
 </p>
 
-<h2>GitHub Stats</h2>
+<h3>GitHub Stats</h3>
 <p><img src="https://github-readme-stats.vercel.app/api?username=mokkapps&amp;show_icons=true" alt="GitHub Stats"></p>
   <a href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow"></a>
 
