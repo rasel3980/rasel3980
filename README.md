@@ -31,7 +31,7 @@
 ### 📫 *Connect with Me*  
 📧 Email: rkrasel3980@gmail.com  
 🔗 LinkedIn: www.linkedin.com/in/rasel80  
-🌐 Portfolio: [your-portfolio](#)  
+🌐 Portfolio: https://p-web-eta.vercel.app/  
 
 ### 📊 *GitHub Stats*  
 ![Rasel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasel3980&show_icons=true&theme=radical)  
