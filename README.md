@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="340" src="https://i.ibb.co.com/MD0Xj0rt/Black-And-Grey-Professional-Technology-Linked-In-Banner-1.png"  />
+  <img height="340" src="https://ibb.co.com/N60B2Nbt"  />
 </div>
 
 <p><strong>Rasel Mia</strong><br>Frontend Developer | Web Developer | Full Stack Developer</p>
