@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="340" src="https://ibb.co.com/N60B2Nbt](https://i.ibb.co.com/SXkCwmG5/Whats-App-Image-2025-11-13-at-3-42-18-AM.jpg)"  />
+  <img height="340" src="https://i.ibb.co/SXkCwmG5/Whats-App-Image-2025-11-13-at-3-42-18-AM.jpg" />
 </div>
 
 <p><strong>Rasel Mia</strong><br>Frontend Developer | Web Developer | Full Stack Developer</p>
