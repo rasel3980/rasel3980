@@ -8,7 +8,7 @@
   <img height="340" src="https://i.ibb.co/6RGMt6Kt/Whats-App-Image-2025-11-13-at-3-59-26-AM.jpg" />
 </div>
 
-<p><strong>Rasel Mia</strong><br>Frontend Developer | Web Developer | Full Stack Developer</p>
+<p><strong>Rasel Mia</strong><br>Frontend Developer | MERN Stack Developer | Full Stack Developer</p>
 <h3>My Skills</h3>
 <p>
  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
